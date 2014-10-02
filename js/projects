@@ -1,0 +1,8 @@
+$(document).scroll( function () {
+	var scrolled = $(window).scrollTop();
+	var surrealEstateHeight = document.getElementById('surreal-estate').clientHeight;
+	var padmentumHeight = document.getElementById('padmentum').clientHeight;
+	var pilamHeight = document.getElementById('pilam-tv').clientHeight;
+	var oldWebHeight = document.getElementById('old-website').clientHeight;
+	
+}
